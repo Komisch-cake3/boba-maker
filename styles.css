@@ -1,0 +1,12 @@
+body{
+    background-image:url(images/grid.png);
+    overflow-x: hidden;
+    size: 100%;
+    overflow-y: hidden;
+}
+
+.cup{
+    position: absolute;
+    left: 36%;
+    top: 20%;
+}
