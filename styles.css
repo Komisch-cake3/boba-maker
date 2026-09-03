@@ -17,12 +17,12 @@ body{
 .start{
     position: absolute;
     left: 30%;
-    background-color: #fff3f3;
-    border-color:#eb9696;
+    background-color: #fffcfe;
+    border: solid #feb1cb ;
     text-decoration: none;
     border-radius: 25px;
     font-size: 50px;
-    color:#eb9696;
+    color:#feb1cb;
     font-family: "Sunshiney", cursive;
     border-width: 4px;
     top: 45%;
@@ -31,4 +31,8 @@ body{
     padding-right: 200px;
     padding-bottom: 25px;
     padding-top: 25px;
+}
+
+.start:hover{
+    transform: scale(1.1);
 }
